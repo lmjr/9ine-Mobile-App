@@ -1,0 +1,245 @@
+TNine
+v7
+r0
+t322620206.769917
+cCheck dependencies
+cProcessInfoPlistFile /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Info.plist Nine-Info.plist
+cCompileXIB /Developement/iPhone/Nine/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg_extend.png 9ine_iphone_bg_extend.png
+cCpResource build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg.png 9ine_iphone_bg.png
+cProcessPCH /var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch.gch Nine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/main.o /Developement/iPhone/Nine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/NineAppDelegate.o /Developement/iPhone/Nine/Classes/NineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine normal i386
+cGenerateDSYMFile /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app.dSYM /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine
+cTouch /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app
+
+N/Developement/iPhone/Nine/9ine_iphone_bg.png
+c000000004D8A83210000000000086112
+t1300923169
+s549138
+
+N/Developement/iPhone/Nine/9ine_iphone_bg_extend.png
+c000000004D8A8AAA000000000008C511
+t1300925098
+s574737
+
+N/Developement/iPhone/Nine/Classes/NineAppDelegate.h
+c000000004D8A9367000000000000013C
+t1300927335
+s316
+i<UIKit/UIKit.h>
+
+N/Developement/iPhone/Nine/Classes/NineAppDelegate.m
+c000000004D8A93A50000000000000BFD
+t1300927397
+s3069
+i"NineAppDelegate.h"
+
+N/Developement/iPhone/Nine/MainWindow.xib
+c000000004D8A936700000000000020F9
+t1300927335
+s8441
+
+N/Developement/iPhone/Nine/Nine_Prefix.pch
+c000000004D8A936700000000000000B1
+t1300927335
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app
+t1300927406
+s272
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app.dSYM
+t1300927406
+s102
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg.png
+t1300927403
+s549138
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg_extend.png
+t1300927403
+s574737
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Info.plist
+t1300927403
+s579
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/MainWindow.nib
+t1300927404
+s981
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine
+t1300927406
+s15944
+
+N/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/PkgInfo
+t1300927403
+s8
+
+N/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/Nine.LinkFileList
+c000000004D8A93AB00000000000000D9
+t1300927403
+s217
+
+N/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/NineAppDelegate.o
+t1300927406
+s51656
+
+N/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/main.o
+t1300927406
+s6276
+
+N/Developement/iPhone/Nine/main.m
+c000000004D8A93670000000000000164
+t1300927335
+s356
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch.gch
+t1300927406
+s15453392
+
+NNine-Info.plist
+c000000004D8A9367000000000000038D
+t1300927335
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322620203#322620203#0(0"0(0#1#0"8665720416#0"0#
+
+CCompileC build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/NineAppDelegate.o /Developement/iPhone/Nine/Classes/NineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322620206.519089
+e322620206.666045
+r1
+xCompileC
+xbuild/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/NineAppDelegate.o
+x/Developement/iPhone/Nine/Classes/NineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Developement/iPhone/Nine/Classes/NineAppDelegate.m322620206#322620206#0(0"0(0#0#51"/Developement/iPhone/Nine/Classes/NineAppDelegate.m8696867424#1741"    cd /Developement/iPhone/Nine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-generated-files.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-own-target-headers.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-all-target-headers.hmap -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-project-headers.hmap -F/Developement/iPhone/Nine/build/Debug-iphonesimulator -I/Developement/iPhone/Nine/build/Debug-iphonesimulator/include -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources/i386 -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources -include /var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch -c /Developement/iPhone/Nine/Classes/NineAppDelegate.m -o /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/NineAppDelegate.o0#
+
+CCompileC build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/main.o /Developement/iPhone/Nine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322620206.513579
+e322620206.619510
+r1
+xCompileC
+xbuild/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/main.o
+x/Developement/iPhone/Nine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Developement/iPhone/Nine/main.m322620206#322620206#0(0"0(0#0#32"/Developement/iPhone/Nine/main.m8697346016#1711"    cd /Developement/iPhone/Nine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-generated-files.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-own-target-headers.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-all-target-headers.hmap -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-project-headers.hmap -F/Developement/iPhone/Nine/build/Debug-iphonesimulator -I/Developement/iPhone/Nine/build/Debug-iphonesimulator/include -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources/i386 -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources -include /var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch -c /Developement/iPhone/Nine/main.m -o /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developement/iPhone/Nine/MainWindow.xib
+s322620203.396007
+e322620204.293383
+r1
+xCompileXIB
+x/Developement/iPhone/Nine/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322620203#322620204#0(0"0(0#0#40"/Developement/iPhone/Nine/MainWindow.xib8695749792#528"    cd /Developement/iPhone/Nine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/MainWindow.nib /Developement/iPhone/Nine/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg.png 9ine_iphone_bg.png
+s322620203.433878
+e322620203.518008
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nine.app/9ine_iphone_bg.png
+x9ine_iphone_bg.png
+lSLF07#2@23"Copy 9ine_iphone_bg.png322620203#322620203#0(0"0(0#0#44"/Developement/iPhone/Nine/9ine_iphone_bg.png8695231584#434"    cd /Developement/iPhone/Nine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developement/iPhone/Nine/9ine_iphone_bg.png /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app0#
+
+CCpResource build/Debug-iphonesimulator/Nine.app/9ine_iphone_bg_extend.png 9ine_iphone_bg_extend.png
+s322620203.400953
+e322620203.453992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nine.app/9ine_iphone_bg_extend.png
+x9ine_iphone_bg_extend.png
+lSLF07#2@30"Copy 9ine_iphone_bg_extend.png322620203#322620203#0(0"0(0#0#51"/Developement/iPhone/Nine/9ine_iphone_bg_extend.png8695500992#441"    cd /Developement/iPhone/Nine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developement/iPhone/Nine/9ine_iphone_bg_extend.png /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app0#
+
+CGenerateDSYMFile /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app.dSYM /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine
+s322620206.718682
+e322620206.751764
+r1
+xGenerateDSYMFile
+x/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app.dSYM
+x/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Nine.app.dSYM build/Debug-iphonesimulator/Nine.app/Nine322620206#322620206#0(0"0(0#0#67"/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine8696100544#335"    cd /Developement/iPhone/Nine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine -o /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app.dSYM0#
+
+CLd /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine normal i386
+s322620206.666147
+e322620206.718565
+r1
+xLd
+x/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine
+xnormal
+xi386
+lSLF07#2@72"Link /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine322620206#322620206#0(0"0(0#0#0"8696276448#820"    cd /Developement/iPhone/Nine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Developement/iPhone/Nine/build/Debug-iphonesimulator -F/Developement/iPhone/Nine/build/Debug-iphonesimulator -filelist /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Objects-normal/i386/Nine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Nine0#
+
+CProcessInfoPlistFile /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Info.plist Nine-Info.plist
+s322620203.363089
+e322620203.395877
+r1
+xProcessInfoPlistFile
+x/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Info.plist
+xNine-Info.plist
+lSLF07#2@23"Process Nine-Info.plist322620203#322620203#0(0"0(0#0#41"/Developement/iPhone/Nine/Nine-Info.plist8696446272#431"    cd /Developement/iPhone/Nine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Nine-Info.plist -genpkginfo /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app/Info.plist0#
+
+CProcessPCH /var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch.gch Nine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322620204.293590
+e322620206.513133
+r1
+xProcessPCH
+x/var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch.gch
+xNine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Nine_Prefix.pch322620204#322620206#0(0"0(0#0#41"/Developement/iPhone/Nine/Nine_Prefix.pch8697537728#1619"    cd /Developement/iPhone/Nine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-generated-files.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-own-target-headers.hmap -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-all-target-headers.hmap -iquote /Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/Nine-project-headers.hmap -F/Developement/iPhone/Nine/build/Debug-iphonesimulator -I/Developement/iPhone/Nine/build/Debug-iphonesimulator/include -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources/i386 -I/Developement/iPhone/Nine/build/Nine.build/Debug-iphonesimulator/Nine.build/DerivedSources -c /Developement/iPhone/Nine/Nine_Prefix.pch -o /var/folders/GL/GLkVykxbH24WclQac3-Swk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nine_Prefix-dvzdorhycehpwkczfirxrscegyvq/Nine_Prefix.pch.gch0#
+
+CTouch /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app
+s322620206.751878
+e322620206.769851
+r1
+xTouch
+x/Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app
+lSLF07#2@68"Touch /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app322620206#322620206#0(0"0(0#0#0"8695902976#249"    cd /Developement/iPhone/Nine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developement/iPhone/Nine/build/Debug-iphonesimulator/Nine.app0#
+
